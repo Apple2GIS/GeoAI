@@ -1,0 +1,65 @@
+﻿category,system,item,resolution,polarization,price_archive,price_tasking,unit,note
+รายละเอียดสูงมาก (Very High Resolution 30–50 ซม.),Optical,Pléiades NEO,30 cm.,,880,"1,270",บาท/ตร.กม. (THB/sq.km),
+รายละเอียดสูงมาก (Very High Resolution 30–50 ซม.),Optical,WorldView-4,30 cm.,,920,"1,560",บาท/ตร.กม. (THB/sq.km),
+รายละเอียดสูงมาก (Very High Resolution 30–50 ซม.),Optical,SuperView-2,42 cm.,,700,"1,100",บาท/ตร.กม. (THB/sq.km),
+รายละเอียดสูงมาก (Very High Resolution 30–50 ซม.),Optical,WorldView-1,50 cm.,,700,"1,100",บาท/ตร.กม. (THB/sq.km),
+รายละเอียดสูงมาก (Very High Resolution 30–50 ซม.),Optical,WorldView-2,50 cm.,,700,"1,100",บาท/ตร.กม. (THB/sq.km),
+รายละเอียดสูงมาก (Very High Resolution 30–50 ซม.),Optical,WorldView-3,50 cm.,,700,"1,100",บาท/ตร.กม. (THB/sq.km),
+รายละเอียดสูงมาก (Very High Resolution 30–50 ซม.),Optical,GeoEye-1,50 cm.,,700,"1,100",บาท/ตร.กม. (THB/sq.km),
+รายละเอียดสูงมาก (Very High Resolution 30–50 ซม.),Optical,Pléiades,50 cm.,,490,830,บาท/ตร.กม. (THB/sq.km),
+รายละเอียดสูงมาก (Very High Resolution 30–50 ซม.),Optical,EarthScanner,50 cm.,,400,800,บาท/ตร.กม. (THB/sq.km),
+รายละเอียดสูงมาก (Very High Resolution 30–50 ซม.),Optical,SuperView-1,50 cm.,,500,900,บาท/ตร.กม. (THB/sq.km),
+รายละเอียดสูงมาก (Very High Resolution 30–50 ซม.),Optical,KOMPSAT-3,50 cm.,,400,700,บาท/ตร.กม. (THB/sq.km),
+รายละเอียดสูงมาก (Very High Resolution 30–50 ซม.),Optical,SKYSAT,50 cm.,,300,560,บาท/ตร.กม. (THB/sq.km),"ขั้นต่ำ 1,250 ตร.กม. (archive) / สั่งถ่ายโปรดติดต่อเจ้าหน้าที่; เข้าดูผ่าน API/Explorer"
+รายละเอียดสูง (High Resolution 60 ซม.–2 ม.),Optical,QuickBird,60 cm.,,700,N/A,บาท/ตร.กม. (THB/sq.km),
+รายละเอียดสูง (High Resolution 60 ซม.–2 ม.),Optical,GaoFen-7,65 cm.,,400,700,บาท/ตร.กม. (THB/sq.km),
+รายละเอียดสูง (High Resolution 60 ซม.–2 ม.),Optical,Jilin,75 cm.,,300,600,บาท/ตร.กม. (THB/sq.km),
+รายละเอียดสูง (High Resolution 60 ซม.–2 ม.),Optical,DailyVision,75 cm.,,300,600,บาท/ตร.กม. (THB/sq.km),
+รายละเอียดสูง (High Resolution 60 ซม.–2 ม.),Optical,GaoFen-2,80 cm.,,300,400,บาท/ตร.กม. (THB/sq.km),
+รายละเอียดสูง (High Resolution 60 ซม.–2 ม.),Optical,IKONOS,1 m.,,400,N/A,บาท/ตร.กม. (THB/sq.km),
+รายละเอียดสูง (High Resolution 60 ซม.–2 ม.),Optical,Video Constellation,1 m.,,"142,500","285,000",บาท/30 วินาที (THB/30s),วิดีโอ ≤30 วินาที/ช่วง; ขั้นต่ำ 100 ตร.กม.; แนวถ่ายกว้าง ≥5 กม.
+รายละเอียดสูง (High Resolution 60 ซม.–2 ม.),Optical,Night Imaging,1 m.,,800,"1,400",บาท/ตร.กม. (THB/sq.km),ภาพกลางคืน; ขั้นต่ำ 100 ตร.กม.
+รายละเอียดสูง (High Resolution — SPOT / ไทยโชต),Optical,SPOT-6,1.5 m.,,190,230,บาท/ตร.กม. (THB/sq.km),ขั้นต่ำ 100 ตร.กม. (archive) / 500 ตร.กม. (tasking)
+รายละเอียดสูง (High Resolution — SPOT / ไทยโชต),Optical,SPOT-7,1.5 m.,,190,230,บาท/ตร.กม. (THB/sq.km),ขั้นต่ำ 100 ตร.กม. (archive) / 500 ตร.กม. (tasking)
+รายละเอียดสูง (High Resolution — SPOT / ไทยโชต),Optical,ไทยโชต (THEOS),2 m.,,700,"6,500",บาท/ภาพ (THB/scene),ราคาที่ปรับ Orthorectification แล้ว 910 บาท/ภาพ
+รายละเอียดปานกลาง (Medium Resolution >2 ม.),Optical,LANDSAT-5,30 m.,,150,N/A,บาท/ภาพ (THB/scene),"Level 1T, 7 Bands"
+รายละเอียดปานกลาง (Medium Resolution >2 ม.),Optical,LANDSAT-7,30 m.,,150,N/A,บาท/ภาพ (THB/scene),"Level 1T, 8 Bands"
+รายละเอียดปานกลาง (Medium Resolution >2 ม.),Optical,LANDSAT-8,30 m.,,150,N/A,บาท/ภาพ (THB/scene),"Level 1T, 11 Bands"
+รายละเอียดปานกลาง (Medium Resolution >2 ม.),Optical,LANDSAT-9,30 m.,,150,N/A,บาท/ภาพ (THB/scene),"Level 1T, 11 Bands"
+รายละเอียดปานกลาง (Medium Resolution >2 ม.),Optical,PLANETSCOPE,3 m.,,180,240,บาท/ตร.กม./ปี (THB/sq.km/yr),Access+Download; คอลัมน์ที่ 2 = การติดตาม (Monitoring); ขั้นต่ำ 100 ตร.กม.; สัญญา 1 ปี
+เรดาร์ RADARSAT-2 (C band),Radar,Standard,25 m.,,"57,600","57,600",บาท/ภาพ (THB/scene),price_archive = Single Look complex; price_tasking = Path Image
+เรดาร์ RADARSAT-2 (C band),Radar,Spotlight A,1 m.,,"134,400","134,400",บาท/ภาพ (THB/scene),price_archive = Single Look complex; price_tasking = Path Image
+เรดาร์ RADARSAT-2 (C band),Radar,Utra-Fine,3 m.,,"86,400","86,400",บาท/ภาพ (THB/scene),price_archive = Single Look complex; price_tasking = Path Image
+เรดาร์ RADARSAT-2 (C band),Radar,Wide Utra-Fine,3 m.,,"124,800","124,800",บาท/ภาพ (THB/scene),price_archive = Single Look complex; price_tasking = Path Image
+เรดาร์ RADARSAT-2 (C band),Radar,Multi-Look Fine,8 m.,,"67,200","67,200",บาท/ภาพ (THB/scene),price_archive = Single Look complex; price_tasking = Path Image
+เรดาร์ RADARSAT-2 (C band),Radar,Wide Multi-Look Fine,8 m.,,"120,000","120,000",บาท/ภาพ (THB/scene),price_archive = Single Look complex; price_tasking = Path Image
+เรดาร์ RADARSAT-2 (C band),Radar,Fine,8 m.,,"57,600","57,600",บาท/ภาพ (THB/scene),price_archive = Single Look complex; price_tasking = Path Image
+เรดาร์ RADARSAT-2 (C band),Radar,Wide,30 m.,,"57,600","57,600",บาท/ภาพ (THB/scene),price_archive = Single Look complex; price_tasking = Path Image
+เรดาร์ RADARSAT-2 (C band),Radar,ScanSAR Narrow,50 m.,,N/A,"57,600",บาท/ภาพ (THB/scene),price_archive = Single Look complex; price_tasking = Path Image
+เรดาร์ RADARSAT-2 (C band),Radar,ScanSAR Wide,100 m.,,N/A,"57,600",บาท/ภาพ (THB/scene),price_archive = Single Look complex; price_tasking = Path Image
+เรดาร์ RADARSAT-2 (C band),Radar,"Extended High, Low",25 m.,,"57,600","57,600",บาท/ภาพ (THB/scene),price_archive = Single Look complex; price_tasking = Path Image
+เรดาร์ RADARSAT-2 (C band),Radar,Fine Quad-Pol,8 m.,,"86,400",N/A,บาท/ภาพ (THB/scene),price_archive = Single Look complex; price_tasking = Path Image
+เรดาร์ RADARSAT-2 (C band),Radar,Wide Fine Quad-Pol,8 m.,,"124,800",N/A,บาท/ภาพ (THB/scene),price_archive = Single Look complex; price_tasking = Path Image
+เรดาร์ TerraSAR-X (X band),Radar,Staring Spotlight (ST),0.25 m.,,"162,630","325,260",บาท/ภาพ (THB/scene),
+เรดาร์ TerraSAR-X (X band),Radar,High Res Spotlight (HS),1 m.,,"139,230","278,460",บาท/ภาพ (THB/scene),
+เรดาร์ TerraSAR-X (X band),Radar,Spotlight,2 m.,,"99,450","198,900",บาท/ภาพ (THB/scene),
+เรดาร์ TerraSAR-X (X band),Radar,StripMap,3 m.,,"69,030","138,060",บาท/ภาพ (THB/scene),
+เรดาร์ TerraSAR-X (X band),Radar,ScanSAR,18.5 m.,,"40,950","81,900",บาท/ภาพ (THB/scene),
+เรดาร์ TerraSAR-X (X band),Radar,Wide ScanSAR,40 m.,,"40,950","81,900",บาท/ภาพ (THB/scene),
+เรดาร์ COSMO SkyMed (X band),Radar,Spotlight-2,1x1 m.,"HH, VV","180,000",,บาท/ภาพ (THB/scene),"price_archive = New Acquisition; StripMap PingPong polarization: HH,VV หรือ HH,HV หรือ VV,VH"
+เรดาร์ COSMO SkyMed (X band),Radar,StripMap Himage,3 x 3 – 5 x 5 m.,"HH, HV, VH, VV","93,000",,บาท/ภาพ (THB/scene),"price_archive = New Acquisition; StripMap PingPong polarization: HH,VV หรือ HH,HV หรือ VV,VH"
+เรดาร์ COSMO SkyMed (X band),Radar,StripMap PingPong,10 x 12 – 20 x 20 m.,,"68,000",,บาท/ภาพ (THB/scene),"price_archive = New Acquisition; StripMap PingPong polarization: HH,VV หรือ HH,HV หรือ VV,VH"
+เรดาร์ COSMO SkyMed (X band),Radar,ScanSAR Wide,14 x 22 – 30 x 30 m.,"HH, HV, VH, VV","78,000",,บาท/ภาพ (THB/scene),"price_archive = New Acquisition; StripMap PingPong polarization: HH,VV หรือ HH,HV หรือ VV,VH"
+เรดาร์ COSMO SkyMed (X band),Radar,ScanSAR Huge,14 x 38 – 100 x 100 m.,"HH, HV, VH, VV","78,000",,บาท/ภาพ (THB/scene),"price_archive = New Acquisition; StripMap PingPong polarization: HH,VV หรือ HH,HV หรือ VV,VH"
+เรดาร์ GaoFen-3 (C band),Radar,Spotlight (SL),1 m.,"HH, VV","116,400","180,500",บาท/ภาพ (THB/scene),
+เรดาร์ GaoFen-3 (C band),Radar,Ultra-fine Stripmap (UFS),3 m.,"HH, VV","68,900","118,800",บาท/ภาพ (THB/scene),
+เรดาร์ GaoFen-3 (C band),Radar,Fine Stripmap (FSI),5 m.,"HH, VV","64,200","95,000",บาท/ภาพ (THB/scene),
+เรดาร์ GaoFen-3 (C band),Radar,Wide Fine Stripmap (FSII),10 m.,"HH, HV / VV, VH","64,200","90,300",บาท/ภาพ (THB/scene),
+เรดาร์ GaoFen-3 (C band),Radar,Standard Stripmap (SS),25 m.,"HH, HV / VV, VH","54,700","85,500",บาท/ภาพ (THB/scene),
+เรดาร์ GaoFen-3 (C band),Radar,Narrow ScanSAR (NSC),50 m.,"HH, HV / VV, VH","32,100","42,800",บาท/ภาพ (THB/scene),
+เรดาร์ GaoFen-3 (C band),Radar,Wide ScanSAR (WSC),100 m.,"HH, HV / VV, VH","32,100","45,800",บาท/ภาพ (THB/scene),
+เรดาร์ GaoFen-3 (C band),Radar,Quad-pol Stripmap (QPSI),8 m.,"HH, HV / VV, VH","71,300","137,800",บาท/ภาพ (THB/scene),
+เรดาร์ GaoFen-3 (C band),Radar,Wide Quad-pol Stripmap (QPSII),25 m.,"HH, HV / VV, VH","71,300","137,800",บาท/ภาพ (THB/scene),
+เรดาร์ GaoFen-3 (C band),Radar,Wave (WAV),10 m.,"HH, HV / VV, VH","10,700","14,300",บาท/ภาพ (THB/scene),
+เรดาร์ GaoFen-3 (C band),Radar,Global Observation (GLO),500 m.,"HH, HV / VV, VH","10,700","14,300",บาท/ภาพ (THB/scene),
+เรดาร์ GaoFen-3 (C band),Radar,Extended Incidence Angle (EXT),25 m.,"HH, HV / VV, VH","42,800","57,000",บาท/ภาพ (THB/scene),
